@@ -28,7 +28,7 @@ enter these lines of code:
 '''
 vagrant init hashicorp/precise64
 vagrant up
-'''
+''' 
   
 After running the above two commands, you will have a fully running virtual machine 
 in VirtualBox running Ubuntu 12.04 LTS 64-bit. You can SSH into this machine with vagrant ssh, 
