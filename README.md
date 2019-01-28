@@ -1,3 +1,6 @@
+This project is about creating a virtual machine that runs on Ubuntu with Vagrant
+Author: Wolf Hopkins
+
 What is a Virtual Machine?
   In computing, a virtual machine is an emulation of a computer system. 
 
