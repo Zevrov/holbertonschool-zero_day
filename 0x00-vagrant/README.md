@@ -1,5 +1,5 @@
 ### This project is about creating a virtual machine that runs on Ubuntu with Vagrant
-### Author: Wolf Hopkins
+#### Author: Wolf Hopkins
 
 #### What is a Virtual Machine?
 In computing, a virtual machine is an emulation of a computer system. 
@@ -25,10 +25,10 @@ The word Ubuntu means: a quality that includes the essential human virtues; comp
 
 #### How to use VM's with Vagrant?
 enter these lines of code:
-'''
+```
 vagrant init hashicorp/precise64
 vagrant up
-''' 
+``` 
   
 After running the above two commands, you will have a fully running virtual machine 
 in VirtualBox running Ubuntu 12.04 LTS 64-bit. You can SSH into this machine with vagrant ssh, 
