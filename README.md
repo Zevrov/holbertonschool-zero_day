@@ -41,4 +41,4 @@ How to use VM's with Vagrant?
     A zero-day (also known as 0-day) vulnerability is a computer-software vulnerability that is unknown to those who 
     would be interested in mitigating the vulnerability (including the vendor of the target software). 
     Until the vulnerability is mitigated, hackers can exploit it to adversely affect computer programs, data, 
-    additional computers or a network.[1] An exploit directed at a zero-day is called a zero-day exploit, or zero-day attack.
+    additional computers or a network. An exploit directed at a zero-day is called a zero-day exploit, or zero-day attack.
